@@ -12,7 +12,7 @@ Como sempre buscando novas coisas para aprender e me aprimimorar. Busquei uma op
 
 
 
-## Outros
+## Atualizações
 👩‍💻 Trabalho atualmente na Pormade Portas
 
 🧠 Estou aprendendo Automação e Manufatura Aditiva

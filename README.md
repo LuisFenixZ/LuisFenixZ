@@ -23,19 +23,20 @@
   </a>
 </p>
 
-<h3> 🌆 Sobre mim: </h3>
+<br/>
+
+<h3 align="center"> 🌆 Sobre mim: </h3>
  
-<p>
+<h5>
 
- Como sempre buscando novas coisas para aprender e me aprimimorar. Busquei uma oportunidade de trabalhar com programação e após um tempo no ramo também encontrei algo que apreciava muito e passei a me empenhar juntamente ao desenvolvimento com design tanto 2D quanto modelagem 3D a partir de desenhos técnicos para manufatura, sendo de produtos ou peças especificas.
+Como sempre buscando novas coisas para aprender e me aprimimorar. Busquei uma oportunidade de trabalhar com programação e após um tempo no ramo também encontrei algo que apreciava muito e passei a me empenhar juntamente ao desenvolvimento com design tanto 2D quanto modelagem 3D a partir de desenhos técnicos para manufatura, sendo de produtos ou peças especificas.
 
-</p>
+</h5>
 
 <br/>
 <br/>
-<br/>
 
-<h3> 🔄 Atualizações: </h3>
+<h3 align="center"> 🔄 Atualizações: </h3>
 
 <p>
 💼 Trabalho atualmente na Pormade Portas
@@ -48,7 +49,7 @@
 <br/>
 
 
-<h3> 💻 Para codar: </h3>
+<h3 align="center"> 💻 Para codar: </h3>
 
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -63,7 +64,7 @@
 
 <br/>
 
-<h3> 🖌️ Para design: </h3>
+<h3 align="center"> 🖌️ Para design: </h3>
 
 [![Fusion360](https://img.shields.io/badge/Fusion360-fe6800?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com.br/products/fusion-360/overview)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://react.dev/)
@@ -71,7 +72,7 @@
 
 <br/>
 
-<h3> 📕 Para estudar: </h3>
+<h3 align="center"> 📕 Para estudar: </h3>
 
 [![Udemy](https://img.shields.io/badge/Udemy-a435f0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com)
 [![MdN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/pt-BR/)
@@ -79,7 +80,7 @@
 
 <br/>
 
-<h3> 🎮 Passa tempo: </h3>
+<h3 align="center"> 🎮 Passa tempo: </h3>
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/_FenixZ)
 

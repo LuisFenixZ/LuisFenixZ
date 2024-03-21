@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<h3> 🌆 Sobre mim </h3>
+<h3> 🌆 Sobre mim: </h3>
  
 <p>
 
@@ -35,7 +35,7 @@
 <br/>
 <br/>
 
-<h3> 🔄 Atualizações </h3>
+<h3> 🔄 Atualizações: </h3>
 
 <p>
 💼 Trabalho atualmente na Pormade Portas
@@ -43,10 +43,12 @@
 <p>
 🧠 Estou aprendendo Automação e Manufatura Aditiva
 </p>
+ 
+<br/>
+<br/>
 
 
-
-## Para codar:
+<h3> 💻 Para codar: </h3>
 
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -61,7 +63,7 @@
 
 <br/>
 
-## Para design:
+<h3> 🖌️ Para design: </h3>
 
 [![Fusion360](https://img.shields.io/badge/Fusion360-fe6800?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com.br/products/fusion-360/overview)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://react.dev/)
@@ -69,7 +71,7 @@
 
 <br/>
 
-## Para estudar:
+<h3> 📕 Para estudar: </h3>
 
 [![Udemy](https://img.shields.io/badge/Udemy-a435f0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com)
 [![MdN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/pt-BR/)
@@ -77,7 +79,7 @@
 
 <br/>
 
-# Passa tempo: 
+<h3> 🎮 Passa tempo: </h3>
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/_FenixZ)
 

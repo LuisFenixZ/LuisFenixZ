@@ -1,8 +1,8 @@
-<h3 align="center">
+<h2 align="center">
         <samp>&gt; Olá!, sou
-                <b>Luis Roberto</a></b>
+                <b>Luis Roberto</b>
         </samp>
-</h3>
+</h2>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/luis-roberto-domborovski-gonçalves-bab708244/" target="_blank">
@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Instagram-ca307b?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
  </a> 
 </p>
+
 <br />
 
 <p align="center">
@@ -27,21 +28,21 @@
 
 <h3 align="center"> 🌆 Sobre mim: </h3>
  
-<h5>
+<p align="center">
 
 Como sempre buscando novas coisas para aprender e me aprimimorar. Busquei uma oportunidade de trabalhar com programação e após um tempo no ramo também encontrei algo que apreciava muito e passei a me empenhar juntamente ao desenvolvimento com design tanto 2D quanto modelagem 3D a partir de desenhos técnicos para manufatura, sendo de produtos ou peças especificas.
 
-</h5>
+</p>
 
 <br/>
 <br/>
 
 <h3 align="center"> 🔄 Atualizações: </h3>
 
-<p>
+<p align="center">
 💼 Trabalho atualmente na Pormade Portas
 </p>
-<p>
+<p align="center">
 🧠 Estou aprendendo Automação e Manufatura Aditiva
 </p>
  
@@ -51,6 +52,7 @@ Como sempre buscando novas coisas para aprender e me aprimimorar. Busquei uma op
 
 <h3 align="center"> 💻 Para codar: </h3>
 
+<p align="center">
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -61,6 +63,7 @@ Como sempre buscando novas coisas para aprender e me aprimimorar. Busquei uma op
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</p>
 
 <br/>
 

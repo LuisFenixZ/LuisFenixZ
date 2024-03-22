@@ -1,6 +1,6 @@
 <h2 align="center">
         <samp>&gt; Olá!, sou
-                <b>Luis Roberto</b>
+                <b>Luis Fenix</b>
         </samp>
 </h2>
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-<h3 align="center"> 🌆 Sobre mim: </h3>
+<h3 align="center"> 🌆 - Sobre mim: </h3>
  
 <p align="center">
 
@@ -37,7 +37,7 @@ Como sempre buscando novas coisas para aprender e me aprimimorar. Busquei uma op
 <br/>
 <br/>
 
-<h3 align="center"> 🔄 Atualizações: </h3>
+<h3 align="center"> 🔄 - Atualizações: </h3>
 
 <p align="center">
 💼 Trabalho atualmente na Pormade Portas
@@ -50,9 +50,8 @@ Como sempre buscando novas coisas para aprender e me aprimimorar. Busquei uma op
 <br/>
 
 
-<h3 align="center"> 💻 Para codar: </h3>
+<h3 align="center"> 💻 - Para codar: </h3>
 
-<p align="center">
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -63,11 +62,10 @@ Como sempre buscando novas coisas para aprender e me aprimimorar. Busquei uma op
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-</p>
 
 <br/>
 
-<h3 align="center"> 🖌️ Para design: </h3>
+<h3 align="center"> 🖌️ - Para design: </h3>
 
 [![Fusion360](https://img.shields.io/badge/Fusion360-fe6800?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com.br/products/fusion-360/overview)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://react.dev/)
@@ -75,7 +73,7 @@ Como sempre buscando novas coisas para aprender e me aprimimorar. Busquei uma op
 
 <br/>
 
-<h3 align="center"> 📕 Para estudar: </h3>
+<h3 align="center"> 📕 - Para estudar: </h3>
 
 [![Udemy](https://img.shields.io/badge/Udemy-a435f0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com)
 [![MdN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/pt-BR/)
@@ -83,7 +81,7 @@ Como sempre buscando novas coisas para aprender e me aprimimorar. Busquei uma op
 
 <br/>
 
-<h3 align="center"> 🎮 Passa tempo: </h3>
+<h3 align="center"> 🎮 - Passa tempo: </h3>
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/_FenixZ)
 

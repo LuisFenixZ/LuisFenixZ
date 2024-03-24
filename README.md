@@ -36,7 +36,7 @@
  
 <p align="center">
 
-Como sempre buscando novas coisas para aprender e me aprimimorar. Busquei uma oportunidade de trabalhar com programação e após um tempo no ramo também encontrei algo que apreciava muito e passei a me empenhar juntamente ao desenvolvimento com design tanto 2D quanto modelagem 3D a partir de desenhos técnicos para manufatura, sendo de produtos ou peças especificas.
+Como sempre buscando novas coisas para aprender e me aprimorar. Busquei uma oportunidade de trabalhar com programação e após um tempo no ramo também encontrei algo que apreciava muito e passei a me empenhar juntamente ao desenvolvimento com design tanto 2D quanto modelagem 3D a partir de desenhos técnicos para manufatura, sendo de produtos ou peças especificas.
 
 </p>
 

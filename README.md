@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header"/>
+
 <h2 align="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=%3E+Ol%C3%A1!+sou+Luis+Fenix...;%3E+Sou+de+Santa+Catarina+-+Brasil...;%3E+Dev.+Frontend+%26+3D%2F2D+Designer...;%3E+Dev.+Sistemas+na+Pormade+Portas." alt="Typing SVG" /></a>
 </h2>
@@ -160,3 +162,5 @@ Como sempre buscando novas coisas para aprender e me aprimorar. Busquei uma opor
 </p> 
 
 <br/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>

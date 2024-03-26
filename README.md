@@ -161,6 +161,4 @@ Como sempre buscando novas coisas para aprender e me aprimorar. Busquei uma opor
 
 </p> 
 
-<br/>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>

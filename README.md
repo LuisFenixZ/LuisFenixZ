@@ -1,17 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header"/>
 
 <h2 align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=%3E+Ol%C3%A1!+sou+Luis+Fenix...;%3E+Sou+de+Santa+Catarina+-+Brasil...;%3E+Dev.+Frontend+%26+3D%2F2D+Designer...;%3E+Dev.+Sistemas+na+Pormade+Portas." alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Luis+Roberto...;Sou+de+Santa+Catarina+-+Brasil...;DevOps+e+SysAdmin+na+Pormade;Seja+bem+vindo!" alt="Typing SVG" /></a>
 </h2>
 
 <p align="center">
 
- <a href="https://www.linkedin.com/in/luis-roberto-domborovski-gonçalves-bab708244/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
- </a>
-
  <a href="https://thewaydo.discloud.app/" target="_blank">
   <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
+ </a>
+
+ <a href="https://www.linkedin.com/in/luis-roberto-domborovski-gonçalves-bab708244/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
  </a>
 
  <a href="https://www.instagram.com/luisfenix.dom/" target="_blank">
@@ -20,145 +20,59 @@
 
 </p>
 
-<br />
-
-<p align="center">
-
-  <a href="https://github.com/LuisFenixZ">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisFenixZ&theme=dark" alt="Stats"/>
-  </a>
-
-</p>
+<h3 align="center">Infraestrutura • Virtualização • Cybersecurity • DevOps</h3>
 
 <br/>
-
-<h3 align="center"> 🌆 - Sobre mim: </h3>
  
-<p align="center">
+<p align="center"> Atualmente atuo na <strong>Pormade Portas</strong> como Analista de Tecnologia da Informação e DevOps, trabalhando com infraestrutura corporativa, administração de servidores Linux e Windows, virtualização, segurança da informação e implantação de novas soluções para o ambiente de TI.</p>
+<p align="center"> Também curso <strong>Tecnólogo em Cibersegurança</strong> e mantenho um <strong>Lab</strong> para estudos, testes e desenvolvimento de projetos voltados à infraestrutura, automação e segurança.</p>
 
-Como sempre buscando novas coisas para aprender e me aprimorar. Busquei uma oportunidade de trabalhar com programação e após um tempo no ramo também encontrei algo que apreciava muito e passei a me empenhar juntamente ao desenvolvimento com design tanto 2D quanto modelagem 3D a partir de desenhos técnicos para manufatura, sendo de produtos ou peças especificas.
 
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=5&color=gradient&section=header"/>
 
-<br/>
+<p align="left"></p> 
+<ul align="center" style="list-style-type:none;"> 
+  <li>Administração de servidores</li>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
+    <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
+    <p align="left"></p> 
+  <li>Virtualização e alta disponibilidade</li>
+    <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white" />  
+    <p align="left"></p> 
+  <li>Containers e gerenciamento de aplicações</li>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+    <p align="left"></p>  
+  <li>Gerenciamento de infraestrutura corporativa</li>
+    <img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />  
+    <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge" />
+    <p align="left"></p> 
+  <li>Monitoramento e observabilidade de ambientes</li>
+    <img src="https://img.shields.io/badge/Wazuh-0266C8?style=for-the-badge" />
+    <p align="left"></p> 
+  <li>Implantação e administração de soluções voltadas a TI.</li>
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <p align="left"></p> 
+  <li>Documentação técnica e padronização de processos</li>
+  <p align="left"></p> 
+  <li>Segurança da Informação e Políticas de Segurança (PSI)</li>
+</ul>
 
-<h3 align="center"> 🔄 - Atualizações: </h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=5&color=gradient&section=header"/>
 
-<p align="center">
-💼 Trabalho atualmente na Pormade Portas
-</p>
-<p align="center">
-🧠 Estou aprendendo Automação e Manufatura Aditiva
-</p>
- 
-<br/>
+<p align="left"></p> 
 
-<h3 align="center"> 💻 - Para codar: </h3>
-
-<p align="center">
- <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="Typescript" />
- </a>
-
- <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Javascript" />
- </a>
- 
- <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React" />
- </a>
-
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
- </a>
-
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
- </a>
-
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
- </a>
-
-</p>
-
-<p align="center">
-
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
- </a>
-
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="Nodejs" />
- </a>
-
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VSCode" />
- </a>
-
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
- </a>
-
-</p> 
-
-<br/>
-
-<h3 align="center"> 🖌️ - Para design: </h3>
-
-<p align="center">
-
- <a href="https://www.autodesk.com.br/products/fusion-360/overview" target="_blank">
-  <img src="https://img.shields.io/badge/Fusion360-fe6800?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion360" />
- </a>
-
- <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
- </a>
-
- <a href="https://www.figma.com" target="_blank">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
- </a>
- 
- <a href="https://www.adobe.com/br/products/photoshop/landpa.html" target="_blank">
-  <img src="https://img.shields.io/badge/Photoshop-002630?style=for-the-badge&logo=adobephotoshop&logoColor=2fa3f7" alt="Photoshop" />
- </a>
-
-</p> 
-
-<br/>
-
-<h3 align="center"> 📕 - Para estudar: </h3>
-
-<p align="center">
- <a href="https://www.udemy.com" target="_blank">
-  <img src="https://img.shields.io/badge/Udemy-a435f0?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy" />
- </a>
-
- <a href="https://developer.mozilla.org/pt-BR/" target="_blank">
-  <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN" />
- </a>
- 
-
- <a href="https://www.w3schools.com" target="_blank">
-  <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" alt="w3s" />
- </a>
-</p> 
-
-<br/>
-
-<h3 align="center"> 🎮 - Passa tempo: </h3>
-
-<p align="center">
-
- <a href="https://steamcommunity.com/id/_FenixZ" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam" />
- </a>
-
- <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="xbox" />
- </a>
-
-</p> 
+<p align="center" style="font-size:1.5rem"><strong>Atualmente estudando:</strong></p>
+<ul align="center" style="list-style-type:none;"> 
+  <li>Cibersegurança</li> 
+  <li>Hardening de Servidores</li> 
+  <li>DevOps</li> 
+  <li>Docker</li> 
+  <li>GitLab Administration</li> 
+  <li>Automação de Infraestrutura</li> 
+  <li>SIEM e Monitoramento</li> 
+  <li>Redes e Segurança</li> 
+</ul> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
